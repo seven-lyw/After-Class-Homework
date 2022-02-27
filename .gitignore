@@ -40,5 +40,7 @@ out/
 .vscode/
 
 ### w1
-/w1/node_modules
-/w1/.secret
+/w1/truffle/node_modules
+/w1/truffle/.secret
+
+.DS_Store
