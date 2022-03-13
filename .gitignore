@@ -44,3 +44,6 @@ out/
 /w1/truffle/.secret
 
 .DS_Store
+
+### w3
+/w3/w3-1/node_modules
